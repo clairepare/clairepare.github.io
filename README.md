@@ -1,4 +1,4 @@
-# [Website](clairepare.github.io)
+# [clairepare.github.io](clairepare.github.io)
 
 This repository contains the source code for my personal website, built with Jekyll and hosted on GitHub Pages.
 
@@ -12,7 +12,7 @@ This repository contains the source code for my personal website, built with Jek
 
 ## Access
 
-Navigate to [Website](clairepare.github.io) on your browser of choice!
+Navigate to [clairepare.github.io](clairepare.github.io) on your browser of choice!
 
 ## For the off chance you want a local setup
 
