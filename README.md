@@ -16,8 +16,8 @@ Navigate to [clairepare.github.io](https://clairepare.github.io/) on your browse
 
 ## For the off chance you want a local setup
 
-1. Clone the repository: `git clone https://github.com/yourusername/yourrepository.git`
-2. Navigate to the repo directory: `cd yourrepository`
+1. Clone the repository: `git clone https://github.com/clairepare/clairepare.github.io.git`
+2. Navigate to the repo directory: `cd clairepare.github.io`
 3. If you don't have Jekyll installed, run `gem install jekyll bundler`
 4. Start the Jekyll server: `jekyll serve`
 5. Open `http://localhost:4000` in your browser
