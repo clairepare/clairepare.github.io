@@ -12,7 +12,7 @@ This repository contains the source code for my personal website, built with Jek
 
 ## Access
 
-Navigate to [(clairepare.github.io)](https://clairepare.github.io/) on your browser of choice!
+Navigate to [clairepare.github.io](https://clairepare.github.io/) on your browser of choice!
 
 ## For the off chance you want a local setup
 
