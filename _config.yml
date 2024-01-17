@@ -1,0 +1,8 @@
+title: Claire Portfolio
+description: A personal website for my personal info
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: dinky
